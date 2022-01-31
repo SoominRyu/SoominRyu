@@ -2,6 +2,12 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=timeGradient&height=300&section=header&text=Soomin%20Ryu&animation=twinkling&fontSize=90)
 ### ✨ My Github Stats✨
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoominRyu&count_private=true&include_all_commits=True&show_icons=true&theme=buefy)
+### 🥤About me🥤
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rsm0932@gmail.com)](mailto:rsm0932@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ryusmoothie/)](https://www.instagram.com/ryusmoothie/) 
+[![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/ryus00m)](https://blog.naver.com/ryus00m)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoominRyu&count_bg=%23FFBFF9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 <!--
 **SoominRyu/SoominRyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
